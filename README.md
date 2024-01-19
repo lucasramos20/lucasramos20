@@ -2,9 +2,8 @@
 
 - 🗺️ Fortaleza, Ceará, Brasil
 - 📌 Técnico em Redes de Computadores | EEEP Rita Aguiar Barbosa
-- 💬 6º Semestre - Ciência da Computação | Estácio
-- 💻 Conhecimento em Python, C e Java
-- 📱  Estudando sobre Dart para Flutter e React Native
+- 💬 9º Semestre - Ciência da Computação | Estácio
+- 💻 Conhecimento em HTML, CSS e JavaScript (ES6)
 - 📕 Estudando Inglês
 - 💙 Família | Futebol | Jogos | Programação | Hardware
 
